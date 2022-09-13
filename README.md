@@ -1,5 +1,5 @@
-# Deep learning Paper Review
-My Youtube Link about Deep learning Paper Review
+# Deep Learning Paper Review
+My Youtube Link about Deep Learning Paper Review
 
 
 | Tasks | Paper | Link |  |
